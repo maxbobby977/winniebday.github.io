@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/winniebday/static/css/main.5f361e03.chunk.css",
+    "main.js": "/winniebday/static/js/main.d96c6b14.chunk.js",
+    "main.js.map": "/winniebday/static/js/main.d96c6b14.chunk.js.map",
+    "runtime-main.js": "/winniebday/static/js/runtime-main.17ac2e52.js",
+    "runtime-main.js.map": "/winniebday/static/js/runtime-main.17ac2e52.js.map",
+    "static/js/2.07e532db.chunk.js": "/winniebday/static/js/2.07e532db.chunk.js",
+    "static/js/2.07e532db.chunk.js.map": "/winniebday/static/js/2.07e532db.chunk.js.map",
+    "index.html": "/winniebday/index.html",
+    "precache-manifest.0324c342be1eacd27134989b8fd0e25f.js": "/winniebday/precache-manifest.0324c342be1eacd27134989b8fd0e25f.js",
+    "service-worker.js": "/winniebday/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/winniebday/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.07e532db.chunk.js.LICENSE.txt": "/winniebday/static/js/2.07e532db.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/winniebday/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17ac2e52.js",
+    "static/js/2.07e532db.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d96c6b14.chunk.js"
+  ]
+}
